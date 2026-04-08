@@ -29,9 +29,7 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     21 mins             ████████████░░░░░░░░░░░░░   46.74 % 
-Markdown                 20 mins             ███████████░░░░░░░░░░░░░░   43.86 % 
-TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+No Activity Tracked This Week
 ```
 
 
