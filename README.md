@@ -13,7 +13,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C889%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C896%20hrs%202%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -29,11 +29,11 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 44 mins      ███████████░░░░░░░░░░░░░░   44.32 % 
-Other                    6 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-TypeScript               4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-JSON                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-YAML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Markdown                 14 hrs 57 mins      ███████████░░░░░░░░░░░░░░   45.60 % 
+Other                    6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+TypeScript               4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+JSON                     3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 
 
