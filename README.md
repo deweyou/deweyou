@@ -29,7 +29,7 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
