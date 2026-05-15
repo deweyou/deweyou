@@ -13,7 +13,5 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C946%20hrs%2019%20mins-blue?style=flat)
-
 
 <!--END_SECTION:waka-->
