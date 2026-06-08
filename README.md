@@ -13,13 +13,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C014%20hrs%2012%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2111 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-🌆 Daytime                4481 commits        █████████░░░░░░░░░░░░░░░░   37.30 % 
-🌃 Evening                4469 commits        █████████░░░░░░░░░░░░░░░░   37.20 % 
-🌙 Night                  953 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+🌞 Morning                2120 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+🌆 Daytime                4518 commits        █████████░░░░░░░░░░░░░░░░   37.10 % 
+🌃 Evening                4574 commits        █████████░░░░░░░░░░░░░░░░   37.56 % 
+🌙 Night                  966 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 ```
 
 
@@ -27,11 +29,11 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-Markdown                 8 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-Swift                    4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-HTML                     3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-JSON                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+TypeScript               8 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+Markdown                 7 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Swift                    5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+HTML                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+JSON                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 ```
 
 
