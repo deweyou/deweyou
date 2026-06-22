@@ -29,11 +29,11 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.07 % 
-Swift                    4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Markdown                 3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-XML                      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-JavaScript               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TypeScript               6 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   37.54 % 
+XML                      2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Markdown                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+JavaScript               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Rust                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 ```
 
 
