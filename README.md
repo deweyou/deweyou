@@ -31,33 +31,33 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               28 hrs 52 mins      ███████████████░░░░░░░░░░   61.72 % 
-Markdown                 8 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Other                    4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-JSON                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-SCSS                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+TypeScript               24 hrs 13 mins      █████████████████░░░░░░░░   66.84 % 
+Markdown                 4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Other                    4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+SCSS                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 hrs 15 mins (94.61%)
+⏱ AI Coding Time: 33 hrs 43 mins (93.04%)
 
-✍️ 56,428 lines written by AI, 163 lines written by hand (99.71% AI-written)
+✍️ 42,068 lines written by AI, 163 lines written by hand (99.61% AI-written)
 
-🔤 5,937,164,620 Input Tokens, 13,157,100 Output Tokens
+🔤 5,212,995,659 Input Tokens, 11,320,254 Output Tokens
 
-💵 $8769.01 Estimated AI Cost This Week
+💵 $6456.25 Estimated AI Cost This Week
 
-🧠 100 AI Sessions, 1730 AI Prompts
+🧠 86 AI Sessions, 1323 AI Prompts
 
-GPT                      59,984 lines        █████████████████████████   100.00 % 
+GPT                      44,589 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📚 Verbose Prompter — average 15,880 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 1.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.61% of written lines came from AI
+📚 Verbose Prompter — average 13,373 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 1.38% of changed lines were hand-edited
 ```
 
 
