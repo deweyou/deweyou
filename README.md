@@ -31,34 +31,34 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 10 mins      ████████████░░░░░░░░░░░░░   48.73 % 
-Markdown                 5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Swift                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-YAML                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Other                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+TypeScript               12 hrs 46 mins      ████████████░░░░░░░░░░░░░   47.98 % 
+Markdown                 5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Swift                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+YAML                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Other                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 40 mins (98.68%)
+⏱ AI Coding Time: 26 hrs 16 mins (98.67%)
 
-✍️ 2,572 lines written by AI, 2 lines written by hand (99.92% AI-written)
+✍️ 2,500 lines written by AI, 2 lines written by hand (99.92% AI-written)
 
-🔤 27,158,550 Input Tokens, 1,245,390 Output Tokens
+🔤 26,129,566 Input Tokens, 1,222,826 Output Tokens
 
-💵 $688.93 Estimated AI Cost This Week
+💵 $680.71 Estimated AI Cost This Week
 
-🧠 159 AI Sessions, 1275 AI Prompts
+🧠 157 AI Sessions, 1259 AI Prompts
 
-GPT                      2,717 lines         █████████████████████████   100.00 % 
+GPT                      2,640 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 22,948 characters per prompt
+📚 Verbose Prompter — average 22,712 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.51% of changed lines were hand-edited
+🚀 High AI Trust — 0.53% of changed lines were hand-edited
 ```
 
 
