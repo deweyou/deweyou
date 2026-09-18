@@ -31,34 +31,34 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-Swift                    3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-TypeScript               3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-Other                    2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+TypeScript               3 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+Other                    3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Markdown                 2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Swift                    2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 24 mins (99.9%)
+⏱ AI Coding Time: 13 hrs 12 mins (99.82%)
 
-✍️ 2,107 lines written by AI, 1 lines written by hand (99.95% AI-written)
+✍️ 1,489 lines written by AI, 1 lines written by hand (99.93% AI-written)
 
-🔤 13,512,700 Input Tokens, 660,354 Output Tokens
+🔤 10,750,814 Input Tokens, 498,642 Output Tokens
 
-💵 $418.47 Estimated AI Cost This Week
+💵 $299.76 Estimated AI Cost This Week
 
-🧠 88 AI Sessions, 526 AI Prompts
+🧠 62 AI Sessions, 403 AI Prompts
 
-GPT                      2,040 lines         ██████████████████████░░░   86.08 % 
-Codex-Vscode             330 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+GPT                      1,407 lines         ████████████████████░░░░░   81.00 % 
+Codex-Vscode             330 lines           █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 26,741 characters per prompt
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 27,569 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 
