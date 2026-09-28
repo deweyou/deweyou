@@ -20,10 +20,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4393 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-🌆 Daytime                9313 commits        █████████░░░░░░░░░░░░░░░░   36.22 % 
-🌃 Evening                9606 commits        █████████░░░░░░░░░░░░░░░░   37.36 % 
-🌙 Night                  2403 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+🌞 Morning                4408 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+🌆 Daytime                9363 commits        █████████░░░░░░░░░░░░░░░░   36.18 % 
+🌃 Evening                9691 commits        █████████░░░░░░░░░░░░░░░░   37.45 % 
+🌙 Night                  2414 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 ```
 
 
@@ -31,33 +31,33 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   35.93 % 
-Other                    1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+TypeScript               1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   38.42 % 
+Other                    1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+JavaScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 27 mins (94.77%)
+⏱ AI Coding Time: 4 hrs 9 mins (94.41%)
 
-✍️ 769 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 550 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,703,404 Input Tokens, 138,750 Output Tokens
+🔤 1,523,782 Input Tokens, 123,639 Output Tokens
 
-💵 $74.35 Estimated AI Cost This Week
+💵 $67.95 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 48 AI Prompts
+🧠 5 AI Sessions, 43 AI Prompts
 
-GPT                      699 lines           ██████████████████████░░░   89.16 % 
-Codex-Vscode             85 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+GPT                      480 lines           █████████████████████░░░░   84.96 % 
+Codex-Vscode             85 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 464 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 385 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
