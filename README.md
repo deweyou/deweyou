@@ -31,31 +31,32 @@
 
 ```text
 💬 Programming Languages: 
-XML                      1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   40.75 % 
-Other                    1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   32.21 % 
-Python                   44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+TypeScript               10 hrs 27 mins      ████████████████░░░░░░░░░   62.82 % 
+Python                   3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+XML                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 41 mins (99.83%)
+⏱ AI Coding Time: 16 hrs 35 mins (99.7%)
 
-✍️ 833 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,708 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,822,528 Input Tokens, 193,597 Output Tokens
+🔤 8,994,288 Input Tokens, 882,013 Output Tokens
 
-💵 $31.85 Estimated AI Cost This Week
+💵 $85.05 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 71 AI Prompts
+🧠 13 AI Sessions, 130 AI Prompts
 
-GPT                      834 lines           █████████████████████████   100.00 % 
+GPT                      1,751 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 139 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 244 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
